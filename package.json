@@ -32,13 +32,13 @@
   "description": "Bootstrap Vue Form Input Group Merge Component",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lazabogdan/fmv-input-group-merge.git"
+    "url": "git+https://github.com/FrontendMatter/fmv-input-group-merge.git"
   },
   "keywords": [
     "bootstrap-vue"
   ],
   "bugs": {
-    "url": "https://github.com/lazabogdan/fmv-input-group-merge/issues"
+    "url": "https://github.com/FrontendMatter/fmv-input-group-merge/issues"
   },
-  "homepage": "https://github.com/lazabogdan/fmv-input-group-merge#readme"
+  "homepage": "https://github.com/FrontendMatter/fmv-input-group-merge#readme"
 }
