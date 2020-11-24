@@ -9589,7 +9589,11 @@
         type: [Boolean, String],
         default: null
       },
-      ...BFormInput.options.props
+      ...BFormInput.options.props,
+      formatter: {
+        type: Function,
+        default: val => val
+      }
     },
     data() {
       return {
